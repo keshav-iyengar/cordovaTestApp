@@ -1,0 +1,4 @@
+#Fri Jul 13 14:12:11 EDT 2018
+base.0=/Users/Keshav/Downloads/NN-Cordova-TestApp/hello/platforms/android/app/build/intermediates/transforms/dexMerger/debug/19
+renamed.0=classes.dex
+file.0=/Users/Keshav/Downloads/NN-Cordova-TestApp/hello/platforms/android/app/build/intermediates/transforms/dexMerger/debug/19/classes.dex
